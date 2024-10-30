@@ -1,4 +1,4 @@
-<h1 align="center">👋🏼 Hello Everyone,<br>I am Ifajul Islam.</h1>
+<h1 align="center">👋🏼 Hello Everyone, I am Ifajul Islam.</h1>
 
 ###
 
