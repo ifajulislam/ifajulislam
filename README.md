@@ -14,7 +14,13 @@
 
 ###
 
-<p align="left">- 🔭 - I’m currently working on Skill Building<br>- 🌱 - I’m currently learning Typescirpt<br>- 💬 - Ask me about JavaScript, React, NoSQL<br>- 📫 - How to reach me: ifajul89@proton.me<br>- ⚡ - Fun fact: Nothing's Special!</p>
+  <ul>
+    <li>🔭 - I’m currently working on Skill Building</li>
+    <li>🌱 - I’m currently learning Typescirpt</li>
+    <li>💬 - Ask me about JavaScript, React, NoSQL</li>
+    <li>📫 - How to reach me: ifajul89@proton.me</li>
+    <li>⚡ - Fun fact: Nothing's Special!</li>
+  </ul>
 
 ###
 
