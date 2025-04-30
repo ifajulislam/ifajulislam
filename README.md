@@ -16,13 +16,17 @@
 
 ###
 
-  <ul>
-    <li>🔭 - I’m currently working on Skill Building</li>
-    <li>🌱 - I’m currently learning Mongoose</li>
-    <li>💬 - Ask me about JavaScript, React, NoSQL</li>
-    <li>📫 - How to reach me: ifajul89@proton.me</li>
-    <li>⚡ - Fun fact: Nothing's Special!</li>
-  </ul>
+  <p>
+  Hey, I'm Ifajul — part English student, part self-taught developer, and full-time problem solver. I write code with curiosity and a healthy amount of Ctrl+Z.
+
+I’m currently diving deep into Next.js, TypeScript, and modern UI frameworks — not just to build websites, but to create smooth, human experiences. Clean code, clear logic, and creative design are what I aim for in every project.
+
+Outside of coding, you’ll find me flipping through books, dissecting lyrics, or quietly turning everyday ideas into side projects that (sometimes) make it past the README file.
+
+I don’t claim to know everything — I just learn fast, build often, and try to get a little better every time I hit "commit".
+
+Let’s create something meaningful — or at least something that doesn’t throw errors.
+  </p>
 
 ###
 
