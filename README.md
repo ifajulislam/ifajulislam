@@ -1,9 +1,3 @@
-<h1 align="center">👋🏼 Hello Everyone, I am Ifajul Islam.</h1>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="230" width-="100%" src="/images/redme-banner.png"  />
 </div>
