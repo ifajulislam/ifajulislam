@@ -44,9 +44,6 @@ Let’s create something meaningful — or at least something that doesn’t thr
 <a href="#" style="text-decoration: none;">
   <img src="/images/discord.png" width="55" height="55" alt="discord"  />
 </a>
-<a href="#" style="text-decoration: none;">
-  <img src="/images/discord.png" width="55" height="55" alt="discord"  />
-</a>
 </div>
 
 ###
