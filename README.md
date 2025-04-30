@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width-="100%" src="/images/redme-banner.png"  />
+  <img height="230" width-="100%" src="/images/redme-banner.png"  />
 </div>
 
 ###
