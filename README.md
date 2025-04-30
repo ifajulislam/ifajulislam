@@ -36,10 +36,17 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
-  <img src="/images/linkedin.png" width="55" height="55" alt="linkedin logo"  />
+  <img src="/images/linkedin.png" width="55" height="55" alt="linkedin"  />
 </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="55" height="40" alt="signal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
+<a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
+  <img src="/images/mail.png" width="55" height="55" alt="mail"  />
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="/images/discord.png" width="55" height="55" alt="discord"  />
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="/images/discord.png" width="55" height="55" alt="discord"  />
+</a>
 </div>
 
 ###
