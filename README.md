@@ -30,8 +30,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+<div align="left">
+<a href="https://www.linkedin.com/in/ifajul-islam/">
+  <img src="/images/linkedin.png" width="55" height="40" alt="linkedin logo"  />
+</a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="55" height="40" alt="signal logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
 </div>
