@@ -30,9 +30,7 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 ###
 
-<h2 align="left">Socials:</h2>
-
-###
+<h3 align="left">Find me on:</h2>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
