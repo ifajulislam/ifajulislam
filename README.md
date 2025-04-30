@@ -44,9 +44,6 @@ Let’s create something meaningful — or at least something that doesn’t thr
 <a href="#" style="text-decoration: none;">
   <img src="/images/discord.png" width="55" height="55" alt="discord"  />
 </a>
-<a href="#" style="text-decoration: none;">
-  <img src="/images/discord.png" width="55" height="55" alt="discord"  />
-</a>
 </div>
 
 ###
@@ -100,5 +97,9 @@ Let’s create something meaningful — or at least something that doesn’t thr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifajul89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="105" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ifajul89&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="110" alt="streak graph"  />
 </div>
+
+###
+
+<p align="center">© 2025-Present Ifajul Islam. All rights reserved.</p>
 
 ###
