@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/ifajul-islam/">
+<a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
   <img src="/images/linkedin.png" width="55" height="55" alt="linkedin logo"  />
 </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="55" height="40" alt="signal logo"  />
