@@ -34,13 +34,13 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
-  <img src="/images/linkedin.png" width="55" height="55" alt="linkedin"  />
+  <img src="/images/linkedin.png" width="50" height="50" alt="linkedin"  />
 </a>
 <a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
-  <img src="/images/mail.png" width="55" height="55" alt="mail"  />
+  <img src="/images/mail.png" width="50" height="50" alt="mail"  />
 </a>
 <a href="#" style="text-decoration: none;">
-  <img src="/images/discord.png" width="55" height="55" alt="discord"  />
+  <img src="/images/discord.png" width="50" height="50" alt="discord"  />
 </a>
 </div>
 
