@@ -17,7 +17,7 @@
 ###
 
   <p>
-  Hey, I'm Ifajul — part English student, part self-taught developer, and full-time problem solver. I write code with curiosity and a healthy amount of Ctrl+Z.
+  Hey, I'm Ifajul Islam — part English student, part self-taught developer, and full-time problem solver. I write code with curiosity and a healthy amount of Ctrl+Z.
 
 I’m currently diving deep into Next.js, TypeScript, and modern UI frameworks — not just to build websites, but to create smooth, human experiences. Clean code, clear logic, and creative design are what I aim for in every project.
 
