@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ifajul89.ifajul89&left_color=tomato&right_color=tomato&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ifajul89.ifajul89&left_color=tomato&right_color=tomato&left_text=Profile Visits"  />
 </div>
 
 ###
