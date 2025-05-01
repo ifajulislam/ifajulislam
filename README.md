@@ -116,6 +116,4 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 ###
 
-<p align="center">© 2025-Present Ifajul Islam. All rights reserved.</p>
-
-###
+<sub align="center">© 2025-Present Ifajul Islam. All rights reserved.</sub>
