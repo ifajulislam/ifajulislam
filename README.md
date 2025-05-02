@@ -101,7 +101,7 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 ###
 
-<div width="50%" align="left">
+<div width="30%" align="left">
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
   <img src="/images/linkedin.png" width="25" height="25" alt="linkedin"  />
 </a>
