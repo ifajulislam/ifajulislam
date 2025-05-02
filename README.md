@@ -116,6 +116,8 @@ Let’s create something meaningful — or at least something that doesn’t thr
 </a>
 </div>
 
-<p width="50%" align="right">© 2025-Present Ifajul Islam. All rights reserved.</p>
+<div width="50%" align="right">
+<p align="right"><sub>© 2025-Present Ifajul Islam. All rights reserved.</sub></p>
+</div>
 
 ###
