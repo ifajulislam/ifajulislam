@@ -117,5 +117,3 @@ Let’s create something meaningful — or at least something that doesn’t thr
   <img src="/images/safari.png" width="20" height="20" alt="safari"  />
 </a>
 </div>
-
-###
