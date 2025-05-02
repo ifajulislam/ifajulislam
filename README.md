@@ -26,23 +26,8 @@ Outside of coding, you’ll find me flipping through books, dissecting lyrics, o
 I don’t claim to know everything — I just learn fast, build often, and try to get a little better every time I hit "commit".
 
 Let’s create something meaningful — or at least something that doesn’t throw errors.
+
   </p>
-
-###
-
-<h3 align="left">Find me on:</h2>
-
-<div align="left">
-<a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
-  <img src="/images/linkedin.png" width="50" height="50" alt="linkedin"  />
-</a>
-<a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
-  <img src="/images/mail.png" width="50" height="50" alt="mail"  />
-</a>
-<a href="#" style="text-decoration: none;">
-  <img src="/images/discord.png" width="50" height="50" alt="discord"  />
-</a>
-</div>
 
 ###
 
@@ -116,6 +101,21 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 ###
 
-<p align="center">© 2025-Present Ifajul Islam. All rights reserved.</p>
+<div width="50%" align="left">
+<a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
+  <img src="/images/linkedin.png" width="25" height="25" alt="linkedin"  />
+</a>
+<a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
+  <img src="/images/mail.png" width="25" height="25" alt="mail"  />
+</a>
+<a href="#" style="text-decoration: none;">
+  <img src="/images/discord.png" width="25" height="25" alt="discord"  />
+</a>
+<a href="https:ifajul-islam.vercel.app" style="text-decoration: none;">
+  <img src="/images/safari.png" width="25" height="25" alt="safari"  />
+</a>
+</div>
+
+<p width="50%" align="right">© 2025-Present Ifajul Islam. All rights reserved.</p>
 
 ###
