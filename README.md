@@ -66,19 +66,19 @@ Let’s create something meaningful — or at least something that doesn’t thr
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
 
 ###
@@ -101,23 +101,21 @@ Let’s create something meaningful — or at least something that doesn’t thr
 
 ###
 
-<div width="30%" align="left">
+<p align="center"><sub>© 2025-Present Ifajul Islam. All rights reserved.</sub></p>
+
+<div align="center">
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
-  <img src="/images/linkedin.png" width="25" height="25" alt="linkedin"  />
+  <img src="/images/linkedin.png" width="20" height="20" alt="linkedin"  />
 </a>
 <a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
-  <img src="/images/mail.png" width="25" height="25" alt="mail"  />
+  <img src="/images/mail.png" width="20" height="20" alt="mail"  />
 </a>
 <a href="#" style="text-decoration: none;">
-  <img src="/images/discord.png" width="25" height="25" alt="discord"  />
+  <img src="/images/discord.png" width="20" height="20" alt="discord"  />
 </a>
 <a href="https:ifajul-islam.vercel.app" style="text-decoration: none;">
-  <img src="/images/safari.png" width="25" height="25" alt="safari"  />
+  <img src="/images/safari.png" width="20" height="20" alt="safari"  />
 </a>
-</div>
-
-<div width="50%" align="right">
-<p align="right"><sub>© 2025-Present Ifajul Islam. All rights reserved.</sub></p>
 </div>
 
 ###
