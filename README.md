@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ifajul89.ifajul89&left_color=tomato&right_color=tomato&left_text=Profile%20Visits"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ifajulifajul.ifajulislam&left_color=tomato&right_color=tomato&left_text=Profile%20Visits"  />
 </div>
 
 ###
@@ -94,9 +94,9 @@ Let’s create something meaningful — or at least something that doesn’t thr
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifajul89&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Status" height="105" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifajul89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="105" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ifajul89&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ifajulislam&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Status" height="105" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifajulislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="105" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ifajulislam&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="110" alt="streak graph"  />
 </div>
 
 ###
@@ -107,7 +107,7 @@ Let’s create something meaningful — or at least something that doesn’t thr
 <a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
   <img src="/images/linkedin.png" width="20" height="20" alt="linkedin"  />
 </a>
-<a href="mailto:ifajul89@proton.me" style="text-decoration: none;">
+<a href="mailto:ifajulislam@proton.me" style="text-decoration: none;">
   <img src="/images/mail.png" width="20" height="20" alt="mail"  />
 </a>
 <a href="#" style="text-decoration: none;">
