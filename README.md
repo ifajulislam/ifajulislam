@@ -105,7 +105,7 @@ Let's create something meaningful — or at least something that doesn't throw e
 <p align="center"><sub>© 2025-Present Ifajul Islam. All rights reserved.</sub></p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/ifajul-islam/" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/ifajulislam/" style="text-decoration: none;">
   <img src="/images/linkedin.png" width="20" height="20" alt="linkedin"  />
 </a>
 <a href="mailto:ifajulislam@proton.me" style="text-decoration: none;">
@@ -114,7 +114,7 @@ Let's create something meaningful — or at least something that doesn't throw e
 <a href="#" style="text-decoration: none;">
   <img src="/images/discord.png" width="20" height="20" alt="discord"  />
 </a>
-<a href="https:ifajul-islam.vercel.app" style="text-decoration: none;">
-  <img src="/images/safari.png" width="20" height="20" alt="safari"  />
+<a href="https:ifajulislam.vercel.app" style="text-decoration: none;">
+  <img src="/images/safari.png" width="20" height="20" alt="portfolio-website"  />
 </a>
 </div>
