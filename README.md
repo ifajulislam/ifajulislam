@@ -20,7 +20,7 @@
  
 Hey, I'm Ifajul Islam — part English student, part self-taught **Fullstack developer**, and full-time problem solver. I write code with curiosity and a healthy amount of Ctrl+Z.
 
-I'm currently diving deep into **Next.js, TypeScript, and modern UI frameworks** on the frontend, while building robust backends with ** Node and Express on Docker** — not just to build websites, but to create smooth, human experiences. Clean code, clear logic, and creative design are what I aim for in every project.
+I'm currently diving deep into <b>Next.js, TypeScript, and modern UI frameworks<b/> on the frontend, while building robust backends with ** Node and Express on Docker** — not just to build websites, but to create smooth, human experiences. Clean code, clear logic, and creative design are what I aim for in every project.
 
 Outside of coding, you'll find me flipping through books, dissecting lyrics, or quietly turning everyday ideas into side projects that (sometimes) make it past the README file.
 
